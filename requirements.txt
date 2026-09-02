@@ -1,0 +1,10 @@
+torch>=2.0
+torchvision>=0.15
+numpy
+scipy
+Pillow
+scikit-image
+matplotlib
+# dataset download only:
+datasets
+pyarrow
